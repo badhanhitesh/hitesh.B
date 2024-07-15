@@ -38,9 +38,6 @@ Feel free to reach out to me for any opportunities or inquiries:
 - **LinkedIn:** [Hitesh Badhan](https://www.linkedin.com/in/hitesh-badhan/)
 - **GitHub:** [badhanhitesh](https://github.com/badhanhitesh)
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
