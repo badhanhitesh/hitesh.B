@@ -4,7 +4,12 @@ Welcome to my personal portfolio! This website showcases my skills, experiences,
 
 ## 🌐 Live Link
 
-Check out my portfolio live [here](https://badhanhitesh.github.io/hitesh.B)
+<div align="center">
+  <a href="https://badhanhitesh.github.io/hitesh.B" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-brightgreen?style=for-the-badge&logo=github" alt="Portfolio Link"/>
+  </a>
+</div>
+
 
 ## 🧑‍💻 About Me
 
